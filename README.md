@@ -1,4 +1,3 @@
 
 C programs
 
-/* C programs */
